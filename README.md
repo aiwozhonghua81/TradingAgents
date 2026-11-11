@@ -2,6 +2,25 @@
 
 # 🇨🇳 TradingAgents 中文详细说明
 
+<!-- 徽章区开始 -->
+<p align="center">
+  <a href="https://github.com/aiwozhonghua81/TradingAgents"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-aiwozhonghua81-181717?style=flat-square&logo=github&logoColor=white"></a>
+  <img alt="最近提交" src="https://img.shields.io/github/last-commit/aiwozhonghua81/TradingAgents?style=flat-square&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4">
+  <img alt="主语言" src="https://img.shields.io/github/languages/top/aiwozhonghua81/TradingAgents?style=flat-square&label=%E4%B8%BB%E8%AF%AD%E8%A8%80">
+  <img alt="星标" src="https://img.shields.io/github/stars/aiwozhonghua81/TradingAgents?style=flat-square&label=%E6%98%9F%E6%A0%87">
+  <img alt="仓库体积" src="https://img.shields.io/github/repo-size/aiwozhonghua81/TradingAgents?style=flat-square&label=%E4%BB%93%E5%BA%93%E4%BD%93%E7%A7%AF">
+  <img alt="许可证" src="https://img.shields.io/github/license/aiwozhonghua81/TradingAgents?style=flat-square&label=%E8%AE%B8%E5%8F%AF%E8%AF%81">
+</p>
+<p align="center">
+  <img alt="中文说明" src="https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E8%AF%B4%E6%98%8E-%E5%B7%B2%E5%AE%8C%E6%95%B4%E8%A6%86%E7%9B%96-brightgreen?style=flat-square">
+  <img alt="给新手看" src="https://img.shields.io/badge/%E7%BB%99%E6%96%B0%E6%89%8B%E7%9C%8B-%E4%B8%8D%E7%94%A8%E6%87%82%E4%BB%A3%E7%A0%81-blue?style=flat-square">
+  <img alt="配图" src="https://img.shields.io/badge/%E9%85%8D%E5%9B%BE-%E5%AE%9E%E6%8B%8D%E6%88%AA%E5%9B%BE%E4%B8%8E%E5%A4%B4%E5%9B%BE-ff69b4?style=flat-square">
+</p>
+<p align="center">
+  <img src="assets/schema.png" alt="TradingAgents 头图" width="880">
+</p>
+<!-- 徽章区结束 -->
+
 > 这一节是为中文读者写的完整说明，放在最前面。
 > 往下滚可以看到**上游项目的原始 README（英文原文）**，内容一个字都没有删改。
 
@@ -607,6 +626,30 @@ git push origin main
 | X（Twitter） | https://x.com/TauricResearch |
 | 变更记录 | 本仓库的 `CHANGELOG.md` |
 | 免责声明 | https://tauric.ai/disclaimer/ |
+
+
+## 🖼️ 界面截图一览
+下面这些图都是**这个仓库里原本就带的真实截图**，不是画的示意图：
+
+**① 整体框架图**
+
+<img src="assets/schema.png" alt="整体框架图" width="820">
+
+**② 分析师角色**
+
+<img src="assets/analyst.png" alt="分析师角色" width="820">
+
+**③ 研究员角色**
+
+<img src="assets/researcher.png" alt="研究员角色" width="820">
+
+**④ 交易员角色**
+
+<img src="assets/trader.png" alt="交易员角色" width="820">
+
+**⑤ 风控角色**
+
+<img src="assets/risk.png" alt="风控角色" width="820">
 
 <!-- 中文说明结束 -->
 
